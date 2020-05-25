@@ -9,7 +9,7 @@ import Gradients from './components/Gradient';
 const App= () => {
   return (
     <>
-      <Circulo nome="Circulo" cor="blue" />  
+      <Circulo nome="Circulo" cor="red" />  
       <Gradients/> 
     </>
   );
