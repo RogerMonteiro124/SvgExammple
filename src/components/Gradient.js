@@ -29,7 +29,7 @@ class Gradients extends Component{
                             y2="0"
                             gradientUnits="userSpaceOnUse">
                             <Stop offset="0" stopColor="rgb(255,255,0)" stopOpacity="0" />
-                            <Stop offset="1" stopColor="red" />
+                            <Stop offset="1" stopColor="blue" />
                         </LinearGradient>
                         </Defs>
                     </Svg>
